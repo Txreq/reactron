@@ -1,4 +1,4 @@
-[![REACTRON_BANNER](https://i.imgur.com/X0kJyXi.png)
+![REACTRON_BANNER](https://i.imgur.com/X0kJyXi.png)
 
 # reactron
 
